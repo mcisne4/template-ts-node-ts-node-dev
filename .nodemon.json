@@ -1,0 +1,10 @@
+{
+	"restartable": "rs",
+	"execMap": {
+		"ts": "ts-node"
+	},
+	"watch": ["src/"],
+	"verbose": true,
+	"ext": "ts,js,json",
+	"ignore": []
+}
